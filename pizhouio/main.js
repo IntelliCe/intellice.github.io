@@ -1,4 +1,4 @@
 function onDownload() {
     //alert("The download is not yet open, please continue to pay attention!")
-    window.location.href('https://github.com/IntelliCe/PizhouIOApp/releases/download/2.0.0-alpha/pizhou-io-2.0.0-alpha.apk')
+    window.location.href = 'https://github.com/IntelliCe/PizhouIOApp/releases/download/2.0.0-alpha/pizhou-io-2.0.0-alpha.apk'
 }
